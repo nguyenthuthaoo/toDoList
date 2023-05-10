@@ -1,6 +1,5 @@
 import html from '../core.js'
 import { connect } from '../store.js'
-import 
 
 function TodoItems({ todo, index, editIndex }) {
     // console.log('item: ', { todo })
